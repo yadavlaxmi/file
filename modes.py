@@ -1,0 +1,5 @@
+file=open("doc.text","w")
+file.write("swathi_gundu\n")
+file.write("gouthami_priyanka\n")
+file.write("hima_bindu\n")
+file.close()
